@@ -42,19 +42,21 @@ Board: After installing the board package, navigate to Tools > Board and choose 
 
 # Software setup (Tensorflow and Machine Learning Model)
 - Step 1. Download [Seeed_Arduino_LSM6DS3](Seeed_Arduino_LSM6DS3-master.zip) library as a zip file
-<img  src="./images/Tf_step1.png">
-Note: Make sure you download both in a Folder you have direct/easy access to
+<img  src="./images/Tf_step1_1.png">
+- Step 2. Download [tflite-micro-arduino-examples](tflite-micro-arduino-examples-main.zip) library
+<img  src="./images/Tf_step1_2.png">
+**Note: Make sure you download both in a Folder you have direct/easy access to**
 <br/><br/> 
-- Step 2. Open Arduino IDE, navigate to Sketch > Include Library > Add .ZIP Library... and open both the downloaded zip files one after the other
+- Step 3. Open Arduino IDE, navigate to Sketch > Include Library > Add .ZIP Library... and open both the downloaded zip files one after the other
 <img  src="./images/Tf_step2.png">
 <br/><br/> 
-- Step 3. Navigate to  File > Examples > Seeeed Arduino LSM6DS3 > IMU_Capture  to open IMU_Capture.ino
+- Step 4. Navigate to  File > Examples > Seeeed Arduino LSM6DS3 > IMU_Capture  to open IMU_Capture.ino
 <img  src="./images/Tf_step3.png">
 <br/><br/> 
-- Step 4. Upload the codes
+- Step 5. Upload the codes
 <img  src="./images/Tf_step5.png">
 <br/><br/> 
-- Step 5. Open the Serial Monitor ( Tools >  Serial Monitor )
+- Step 6. Open the Serial Monitor ( Tools >  Serial Monitor )
 <img  src="./images/Tf_step6.png">
   - You should be able to see the data you collect from now on
 
