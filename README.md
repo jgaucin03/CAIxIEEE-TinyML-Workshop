@@ -90,9 +90,9 @@ Perform a flexing action. You will see that it will give a result close to 1 nex
 <img  src="./images/inf_3.png">
 
 
-# Resources
+# References
 [Getting Started with TensorFlow Lite on Seeed Studio XIAO nRF52840 Sense](https://wiki.seeedstudio.com/XIAO-BLE-Sense-TFLite-Getting-Started/)
 
-[Seeed_Arduino_LSM6DS3](https://github.com/Seeed-Studio/Seeed_Arduino_LSM6DS3) github repo
+[Seeed_Arduino_LSM6DS3](https://github.com/Seeed-Studio/Seeed_Arduino_LSM6DS3) Github repo
 
 [tflite-micro-arduino-examples](https://github.com/lakshanthad/tflite-micro-arduino-examples)
