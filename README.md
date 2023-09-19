@@ -41,6 +41,6 @@ Board: After installing the board package, navigate to Tools > Board and choose 
 ---
 
 # Software setup (Tensorflow and Machine Learning Model)
-- Step 1. Download [Seeed_Arduino_LSM6DS3](CAIxIEEE-TinyML-Workshop/Seeed_Arduino_LSM6DS3-master.zip) library as a zip file
+- Step 1. Download [Seeed_Arduino_LSM6DS3](Seeed_Arduino_LSM6DS3-master.zip) library as a zip file
 Note: Make sure you download both in a Folder you have direct/easy access to
 - Step 2. Open Arduino IDE, navigate to Sketch > Include Library > Add .ZIP Library... and open both the downloaded zip files one after the other
