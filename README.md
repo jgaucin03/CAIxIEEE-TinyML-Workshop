@@ -41,9 +41,9 @@ Board: After installing the board package, navigate to Tools > Board and choose 
 ---
 
 # Software setup (Tensorflow and Machine Learning Model)
-- Step 1. Download [Seeed_Arduino_LSM6DS3](Seeed_Arduino_LSM6DS3-master.zip) library as a zip file
+- Step 1. Download [Seeed_Arduino_LSM6DS3] (Seeed_Arduino_LSM6DS3-master.zip) library as a zip file
 <img  src="./images/Tf_step1_1.png">
-- Step 2. Download [tflite-micro-arduino-examples](tflite-micro-arduino-examples-main.zip) library
+- Step 2. Download [tf_lite](https://github.com/jgaucin03/CAIxIEEE-TinyML-Workshop/blob/main/tflite-micro-arduino-examples-main.zip) library
 <img  src="./images/Tf_step1_2.png">
 **Note: Make sure you download both in a Folder you have direct/easy access to**
 <br/><br/> 
@@ -62,7 +62,7 @@ Board: After installing the board package, navigate to Tools > Board and choose 
 
   <img  src="./images/Tf_step7.png">
 
-  - BUT for workshop, we give them the data (Don’t want them copying and pasting 1190 lines of code for punch and for flex each)
+  - BUT for workshop, we give the data (Don’t want copying and pasting 1190 lines of code for punch and for flex each)
 
 <br/><br/><br/><br/>
 # Inference
