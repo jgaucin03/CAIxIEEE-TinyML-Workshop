@@ -21,7 +21,7 @@ All the relevant links and such
 
 ----
 
-- Step 4: Navigate to Tools > Board > Boards Manager..., type the keyword "seeed nrf52" in the search box, select the latest version of the board you want, and install it. (Install Both)
+- Step 4: Navigate to Tools > Board > Boards Manager..., type the keyword "seeed nrf52" in the search box, select the latest version of the board you want, and install it. (You can install both)
 We NEED Seeed nRF52 mbed-enabled Boards installed to work the classifier
 
 <img  src="./images/Arduino_step4.png">
