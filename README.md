@@ -17,3 +17,6 @@ All the relevant links and such
 - (On macOS): Navigate to Arduino IDE > Settings… > and fill “Additional Boards Manager URLs" with the URL below
   https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json
 
+
+
+[Seeed Arduino LSM6DS3](https://github.com/jgaucin03/CAIxIEEE-TinyML-Workshop/blob/main/Seeed_Arduino_LSM6DS3-master.zip)
